@@ -1,9 +1,9 @@
 {
   "applicationId": null,
-  "awsProfileName": "",
+  "awsProfileName": "ixdma_teacher",
   "skillName": "My Alexa Skill",
-  "lambdaName": "MyAlexaSkillLambdaFunction",
-  "dynamoTableName": "MyAlexaSkillTable",
+  "lambdaName": "IxDMAAlexaAdventureTeacher",
+  "dynamoTableName": "IxDMATeacherDatabase",
   "dynamoRegion": "us-east-1",
   "commands": {
     "ResetStateIntent": [
